@@ -4,8 +4,8 @@ body{
 .container{
     display: grid;
     font-size: 14px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: auto 550px 320px 1200px 400px 100px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: auto auto auto auto auto auto auto;
     background-color: #fff;
     grid-gap: 15px;
     color: #bc8b42;

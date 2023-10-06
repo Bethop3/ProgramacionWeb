@@ -219,7 +219,8 @@ p{
     left: 120px;
     border-radius: 50%;
     width: 90px;
-
+    
+    margin-bottom: 40px;
 } 
 
 .text-card{
@@ -250,4 +251,10 @@ footer a:hover{
     text-align: center;
     color: black;
     margin-bottom: 20px;
+}
+
+.title-card{
+
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
